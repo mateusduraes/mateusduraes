@@ -6,9 +6,9 @@ I'm looking forward to contribute to Angular/Google tech projects.
 
 Here are some useful links you can find me:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mateusduraes1994/)
+<img width="20" height="20" src="./linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/mateusduraes1994/)
 
-🔗 [Twitter](https://twitter.com/mduraes1994)
+<img width="20" height="20" src="./twitter.svg" /> [Twitter](https://twitter.com/mduraes1994)
 
-🔗 [Youtube](https://www.youtube.com/channel/UCsxY6tVQED5YBALHpHLuXQw)
+<img width="20" height="20" src="./youtube.svg" /> [Youtube](https://www.youtube.com/channel/UCsxY6tVQED5YBALHpHLuXQw)
 
