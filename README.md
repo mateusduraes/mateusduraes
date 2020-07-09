@@ -4,6 +4,8 @@ I do work as a FullStack JavaScript developer, mainly using Angular, Firebase an
 
 I'm looking forward to contribute to Angular/Google tech projects.
 
+---
+
 Here are some useful links you can find me:
 
 <img width="20" height="20" src="https://github.com/mateusduraes/mateusduraes/blob/master/linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/mateusduraes1994/)
