@@ -6,7 +6,7 @@ I'm looking forward to contribute to Angular/Google tech projects.
 
 ---
 
-Here are some useful links you can find me:
+Here are some useful links where you can find me:
 
 <img width="20" height="20" src="https://github.com/mateusduraes/mateusduraes/blob/master/linkedin.svg" /> [LinkedIn](https://www.linkedin.com/in/mateusduraes1994/)
 
