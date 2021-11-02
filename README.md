@@ -1,8 +1,6 @@
 ### Hi there! 👋
 
-I do work as a FullStack JavaScript developer, mainly using Angular, Firebase and NodeJS.
-
-I'm looking forward to contribute to Angular/Google tech projects.
+I do work as a FullStack JavaScript developer, mainly using TypeScript and NodeJS.
 
 ---
 
