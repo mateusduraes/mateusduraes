@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I do work as a FullStack JavaScript developer, mainly using TypeScript and NodeJS.
+I do work as a Full Stack developer, mainly using TypeScript and NodeJS.
 
 ---
 
