@@ -1,0 +1,23 @@
+{
+  "name": "mateusduraes",
+  "version": "1.0.0",
+  "description": "Mateus Duraes - contact information",
+  "main": "./info.json",
+  "bin": {
+    "mateusduraes": "./index.js"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Mateus Duraes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusduraes/mateusduraes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mateusduraes/mateusduraes/issues"
+  },
+  "homepage": "https://github.com/mateusduraes/mateusduraes#readme"
+}

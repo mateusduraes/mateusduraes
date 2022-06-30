@@ -22,3 +22,11 @@ Here are some useful links where you can find me:
     <a href="https://www.linkedin.com/in/mateusduraes1994/" target="_blank" title="LinkedIn">Linkedin</a>
   </li>
 </ul>
+
+In order to find my contact information,  use the following command on your terminal
+
+```console
+npx mateusduraes
+```
+
+<img src="https://github.com/mateusduraes/mateusduraes/blob/master/mateusduraes.gif" width="16" alt="npx demo">
