@@ -29,10 +29,4 @@ I do work as a Full Stack developer, mainly using TypeScript and NodeJS.
 
 ---
 
-In order to find my contact information, you can also use the following command on your terminal
-
-```console
-npx mateusduraes
-```
-
 ![Npx demo](https://github.com/mateusduraes/mateusduraes/blob/master/mateusduraes.gif)
