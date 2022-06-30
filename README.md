@@ -2,32 +2,37 @@
 
 I do work as a Full Stack developer, mainly using TypeScript and NodeJS.
 
----
-
-Here are some useful links where you can find me:
-
 <ul>
-  <li>
-    <img src="https://github.com/mateusduraes/mateusduraes/blob/master/youtube.svg" width="16" alt="YouTube"> 
-    <a href="https://www.youtube.com/channel/UCsxY6tVQED5YBALHpHLuXQw" target="_blank" title="YouTube">YouTube</a>
+   <li>
+     Frontend Engineer at 
+     <a href="https://www.flixbus.com/" target="_blank" title="FlixBus">FlixBus</a>
   </li>
-
-  <li>
-    <img src="https://github.com/mateusduraes/mateusduraes/blob/master/twitter.svg" width="16" alt="Twitter Logo" />
-    <a href="https://twitter.com/mduraes1994" target="_blank" title="Twitter">Twitter</a>
+  
+   <li>
+    Sharing knowledge at
+     <a href="https://www.youtube.com/channel/UCsxY6tVQED5YBALHpHLuXQw" target="_blank" title="YouTube">Youtube</a>
+     <img src="https://github.com/mateusduraes/mateusduraes/blob/master/youtube.svg" width="16" alt="YouTube">
   </li>
-
-  <li>
-    <img src="https://github.com/mateusduraes/mateusduraes/blob/master/linkedin.svg" width="16" alt="LinkedIn Logo">
-    <a href="https://www.linkedin.com/in/mateusduraes1994/" target="_blank" title="LinkedIn">Linkedin</a>
+  
+   <li>
+    Find me on 
+     <a href="https://twitter.com/mduraes1994" target="_blank" title="Twitter">Twitter</a>
+     <img src="https://github.com/mateusduraes/mateusduraes/blob/master/twitter.svg" width="16" alt="Twitter Logo" />
+  </li>
+  
+   <li>
+    Find me on 
+     <a href="https://www.linkedin.com/in/mateusduraes1994/" target="_blank" title="LinkedIn">Linkedin</a>
+     <img src="https://github.com/mateusduraes/mateusduraes/blob/master/linkedin.svg" width="16" alt="LinkedIn Logo">    
   </li>
 </ul>
 
-In order to find my contact information,  use the following command on your terminal
+---
+
+In order to find my contact information, you can also use the following command on your terminal
 
 ```console
 npx mateusduraes
 ```
 
 ![Npx demo](https://github.com/mateusduraes/mateusduraes/blob/master/mateusduraes.gif)
-
