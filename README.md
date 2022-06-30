@@ -29,4 +29,5 @@ In order to find my contact information,  use the following command on your term
 npx mateusduraes
 ```
 
-<img src="https://github.com/mateusduraes/mateusduraes/blob/master/mateusduraes.gif" width="16" alt="npx demo">
+![Npx demo](https://github.com/mateusduraes/mateusduraes/blob/master/mateusduraes.gif)
+
